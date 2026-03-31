@@ -154,7 +154,7 @@ function PasswordGate({ onUnlock }) {
           onMouseOut={e => { e.currentTarget.style.background = C.blue; e.currentTarget.style.transform = "translateY(0)"; }}>
           Megnyitás
         </button>
-        <div style={{ fontSize: 11, color: "#333", marginTop: 20 }}>dropline · AI Videó Produkció · 2026</div>
+        <div style={{ fontSize: 11, color: "#333", marginTop: 20 }}>Corvinus Egyetem · AI Videó Produkció · 2026</div>
       </div>
     </div>
   );
